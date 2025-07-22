@@ -48,4 +48,4 @@ Aprendiendo **Blockbench** con el objetivo de crear modelos y contenido personal
 
 ---
 
-<center><H2>📌 Repositorios fijados 👀</H2></center>
+<h2 align="center">📌 Repositorios fijados 👀</H2>
