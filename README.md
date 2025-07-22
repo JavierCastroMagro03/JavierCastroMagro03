@@ -4,13 +4,10 @@
 </p>
 
 ## 👤 Sobre mí
-
 - 🔧 Soy diseñador y desarrollador de Videojuegos
 - 🙈 Tengo 22 años
 - 🎓 Actualmente estudiando Diseño y Desarrollo de Videojuegos en la URJC (a falta de TFG y Prácticas)
-
 - 🌐 Puedes saber más sobre mí en [mi página web]() 🚧 work in progress
-
 
 ## 🧠 Lenguajes y Tecnologías con las que he trabajado
 
