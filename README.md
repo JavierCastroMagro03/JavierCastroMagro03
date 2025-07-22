@@ -1,16 +1,52 @@
-## Hi there 👋
+<center><H2>¡Hola! Me llamo Javier 👋</H2>
 
-<!--
-**JavierCastroMagro03/JavierCastroMagro03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=JavierCastroMagro03&color=blueviolet&style=flat)
 
-Here are some ideas to get you started:
+</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 Sobre mí
+
+- 🔧 Soy diseñador y desarrollador de Videojuegos
+- 🙈 Tengo 22 años
+- 🎓 Actualmente estudiando Diseño y Desarrollo de Videojuegos en la URJC (a falta de TFG y Prácticas)
+
+- 🌐 Puedes saber más sobre mí en [mi página web]() 🚧 work in progress
+
+
+## 🧠 Lenguajes y Tecnologías con las que he trabajado
+
+**📄 Lenguajes de Programación:**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
+**🧰 Frameworks y Herramientas**
+
+- 🗄️ **Bases de datos**: SQLite, SQL, MongoDB  
+- 🛠️ **Control de versiones**: Git, GitHub  
+- 🎮 **Game dev**: Unity  
+- 🎧 **Edición de audio**: Audacity  
+- 🎥 **Streaming y grabación**: OBS Studio  
+- 🧠 **Productividad y organización**: Notion, Miro, Jira
+
+## 🚧 En lo que estoy trabajando actualmente
+
+🖥️ **Cursos de Mastermind**:
+  - Montaje de ordenadores
+  - Modding en Minecraft
+  - Historia de los componentes de PC
+
+Aprendiendo **Blockbench** con el objetivo de crear modelos y contenido personalizado para mods de Minecraft <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="20" height="20" />
+
+---
+#### 🎨 No te olvides de visitar mis piezas de arte en mi perfil de [ArtStation](https://silver999.artstation.com/)
+
+---
+
+<center><H2>📌 Repositorios fijados 👀</H2></center>
