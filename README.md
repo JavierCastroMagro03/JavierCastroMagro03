@@ -43,9 +43,7 @@
 
 Aprendiendo **Blockbench** con el objetivo de crear modelos y contenido personalizado para mods de Minecraft <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="20" height="20" />
 
----
-#### 🎨 No te olvides de visitar mis piezas de arte en mi perfil de [ArtStation](https://silver999.artstation.com/)
 
----
+## 🎨 No te olvides de visitar mis piezas de arte en mi perfil de [ArtStation](https://silver999.artstation.com/)
 
-<h2 align="center">📌 Repositorios fijados 👀</H2>
+<h2 align="center">📌 Repositorios fijados 👀</h2>
