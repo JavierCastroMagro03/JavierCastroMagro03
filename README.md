@@ -1,8 +1,11 @@
-<center><H2>¡Hola! Me llamo Javier 👋</H2>
+<table><tr><td align="center">
+
+<h2>¡Hola! Me llamo Javier 👋</h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JavierCastroMagro03&color=blueviolet&style=flat)
 
-</center>
+</td></tr></table>
+
 
 ## 👤 Sobre mí
 
