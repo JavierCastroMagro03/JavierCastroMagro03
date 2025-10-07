@@ -34,11 +34,13 @@
 ## 🚧 En lo que estoy trabajando actualmente
 
 🖥️ **Cursos de Mastermind**:
-  - Montaje de ordenadores
+  - Ciberseguridad
   - Modding en Minecraft
   - Historia de los componentes de PC
 
 Aprendiendo **Blockbench** con el objetivo de crear modelos y contenido personalizado para mods de Minecraft <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="20" height="20" />
+
+Elaboración del Trabajo de Fin de Grado: _CONSTRUYENDO MUNDOS: GUÍA INTRODUCTORIA DE MAPMAKING Y MODDING EN MINECRAFT_
 
 
 ## 🎨 No te olvides de visitar mis piezas de arte en mi perfil de [ArtStation](https://silver999.artstation.com/)
