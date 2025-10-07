@@ -36,7 +36,6 @@
 🖥️ **Cursos de Mastermind**:
   - Ciberseguridad
   - Modding en Minecraft
-  - Historia de los componentes de PC
 
 Aprendiendo **Blockbench** con el objetivo de crear modelos y contenido personalizado para mods de Minecraft <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="20" height="20" />
 
