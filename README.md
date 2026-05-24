@@ -5,8 +5,8 @@
 
 ## 👤 Sobre mí
 - 🔧 Soy diseñador y desarrollador de Videojuegos
-- 🙈 Tengo 22 años
-- 🎓 Actualmente estudiando Diseño y Desarrollo de Videojuegos en la URJC (a falta de TFG y Prácticas)
+- 🙈 Tengo 23 años
+- 🎓 Actualmente estudiando Diseño y Desarrollo de Videojuegos en la URJC (a falta de TFG y Prácticas extracurriculares)
 - 🌐 Puedes saber más sobre mí en [mi página web](https://javiercastromagro03.github.io/website-portfolio/)
 
 ## 🧠 Lenguajes y Tecnologías con las que he trabajado
@@ -24,17 +24,19 @@
 
 **🧰 Frameworks y Herramientas**
 
-- 🗄️ **Bases de datos**: SQLite, SQL, MongoDB  
-- 🛠️ **Control de versiones**: Git, GitHub  
-- 🎮 **Game dev**: Unity  
+- 🎮 **Game dev**: Unreal Engine, Unity
+- 🛠️ **Control de versiones**: GitHub
+- 🧠 **Productividad y organización**: Notion, Miro, Jira, GitHub Projects
+- 🎥 **Streaming y grabación**: OBS Studio
 - 🎧 **Edición de audio**: Audacity  
-- 🎥 **Streaming y grabación**: OBS Studio  
-- 🧠 **Productividad y organización**: Notion, Miro, Jira
+- 🗄️ **Bases de datos**: SQLite, SQL, MongoDB  
+
+
+
 
 ## 🚧 En lo que estoy trabajando actualmente
 
 🖥️ **Cursos de Mastermind**:
-  - Ciberseguridad
   - Modding en Minecraft
 
 Aprendiendo **Blockbench** con el objetivo de crear modelos y contenido personalizado para mods de Minecraft <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="20" height="20" />
